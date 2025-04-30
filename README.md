@@ -2,7 +2,7 @@
 
 ## Attention and Mamba-Driven Quality Assessment for Underwater Images
 
-📚[This Paper is waiting publication.](https://ieeexplore.ieee.org)
+📚[This Paper is waiting publication.](https://ieeexplore.ieee.org) Accepted by IEEE Transactions on Multimedia.
 
 ### Architecture of AMQI
 
