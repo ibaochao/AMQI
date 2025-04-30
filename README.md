@@ -1,12 +1,28 @@
 # AMQI
 
-Attention and Mamba-driven Quality Index (AMQI)，a underwater image quality assessment (UIQA) method.
+## Attention and Mamba-Driven Quality Assessment for Underwater Images
 
-Paper: Attention and Mamba-Driven Quality Assessment for Underwater Images
+📚[Paper waiting for publication.](https://ieeexplore.ieee.org)
 
-Predict Code of AMQI.
+### Architecture of AMQI
 
-Download 'AMQI_epoch_10.pth':
-[Baidu Netdisk](https://pan.baidu.com/s/1oQAkLSsqu_DgHNGpzGVDYw?pwd=7777)
+<picture>
+  <img src="assets/Architecture.png" style="margin: 0 auto; width: 80%;" />
+</picture>
 
+### Testing prediction code of AMQI
+You can download 'AMQI_epoch_10.pth' from [Baidu Netdisk](https://pan.baidu.com/s/1oQAkLSsqu_DgHNGpzGVDYw?pwd=7777).
 
+### Citation
+
+🌟 If you find our work helpful, please leave us a star and cite our paper.
+
+BibTeX
+```
+Waiting for publication.
+```
+
+GB/T 7714
+```
+Waiting for publication.
+```
