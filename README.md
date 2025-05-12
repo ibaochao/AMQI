@@ -18,7 +18,7 @@ Modified.
   <img src="assets/SS2D.png" style="margin: 0 auto; width: 80%;" />
 </picture>
 
-### Testing prediction code of AMQI
+### Test prediction code of AMQI
 You can download 'AMQI_epoch_10.pth' from [Baidu Netdisk](https://pan.baidu.com/s/1oQAkLSsqu_DgHNGpzGVDYw?pwd=7777).
 
 ### Citation
