@@ -4,7 +4,7 @@ Modified.
 
 ## Attention and Mamba-Driven Quality Assessment for Underwater Images
 
-📚[This Paper is waiting publication.](https://ieeexplore.ieee.org) Accepted by IEEE Transactions on Multimedia.
+📚[Paper](https://ieeexplore.ieee.org/document/11194228)
 
 ### Architecture of AMQI
 
@@ -27,10 +27,19 @@ You can download 'AMQI_epoch_10.pth' from [Baidu Netdisk](https://pan.baidu.com/
 
 BibTeX
 ```
-Waiting for publication.
+@article{cao2025attention,
+  title={Attention and Mamba-Driven Quality Assessment for Underwater Images},
+  author={Cao, Jingchao and Zhang, Baochao and Liu, Yutao and Hu, Runze and Gu, Ke and Zhai, Guangtao and Dong, Junyu},
+  journal={IEEE Transactions on Multimedia},
+  year={2025},
+  volume={27},
+  pages={9761-9775},
+  doi={10.1109/TMM.2025.3618571}
+}
 ```
 
 GB/T 7714
 ```
-Waiting for publication.
+Cao J, Zhang B, Liu Y, et al. Attention and Mamba-Driven Quality Assessment for Underwater Images[J]. IEEE Transactions on Multimedia, 2025, 27: 9761-9775.
 ```
+
